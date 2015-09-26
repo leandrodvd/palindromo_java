@@ -7,7 +7,7 @@ Note que apenas palindromos naturais e perfeitos são considerados.
 
 # compilar
 Para compilar por linha de comando navegue para a pasta src e use o javac
-javac com\leandrodavid\palindromo\PalindromoWrapper.java
+<code>javac com\leandrodavid\palindromo\PalindromoWrapper.java</code>
 
 Ou então importe o projeto no Eclipse e deixe ele compilar para você =)
 
