@@ -5,21 +5,21 @@ Note that only perfect and natural palindromes are considered.
 Um simples projeto java que identifica se uma palavra ou sequencia de palacras é um palíndromo.
 Note que apenas palindromos naturais e perfeitos são considerados.
 
-# compilar
+# Compilar
 Para compilar por linha de comando navegue para a pasta src e use o javac
 
 <code>javac com\leandrodavid\palindromo\PalindromoWrapper.java</code>
 
 Ou então importe o projeto no Eclipse e deixe ele compilar para você =)
 
-# executar
+# Executar
 execute por linha de comando com\leandrodavid\palindromo\PalindromoWrapper
 
 <code>java com.leandrodavid.palindromo.PalindromoWrapper <palavras></code>
 
 onde <palavras> pode ser uma ou várias palavras separadas por espaço ou uma frase entre aspas
 
-## Exemplos
+**Exemplos**
 
 java com.leandrodavid.palindromo.PalindromoWrapper asa
 
