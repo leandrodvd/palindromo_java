@@ -14,10 +14,15 @@ Ou então importe o projeto no Eclipse e deixe ele compilar para você =)
 
 # executar
 execute por linha de comando com\leandrodavid\palindromo\PalindromoWrapper
-``java com.leandrodavid.palindromo.PalindromoWrapper <palavras>``
+
+<code>java com.leandrodavid.palindromo.PalindromoWrapper <palavras></code>
+
 onde <palavras> pode ser uma ou várias palavras separadas por espaço ou uma frase entre aspas
 
-Exemplos
+## Exemplos
+
 java com.leandrodavid.palindromo.PalindromoWrapper asa
+
 java com.leandrodavid.palindromo.PalindromoWrapper raiar reler reter
+
 java com.leandrodavid.palindromo.PalindromoWrapper "assim a aluna anula a missa"
