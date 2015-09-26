@@ -7,13 +7,14 @@ Note que apenas palindromos naturais e perfeitos são considerados.
 
 # compilar
 Para compilar por linha de comando navegue para a pasta src e use o javac
+
 <code>javac com\leandrodavid\palindromo\PalindromoWrapper.java</code>
 
 Ou então importe o projeto no Eclipse e deixe ele compilar para você =)
 
 # executar
 execute por linha de comando com\leandrodavid\palindromo\PalindromoWrapper
-java com.leandrodavid.palindromo.PalindromoWrapper <palavras>
+``java com.leandrodavid.palindromo.PalindromoWrapper <palavras>``
 onde <palavras> pode ser uma ou várias palavras separadas por espaço ou uma frase entre aspas
 
 Exemplos
