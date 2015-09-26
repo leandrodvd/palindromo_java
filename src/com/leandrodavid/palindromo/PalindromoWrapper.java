@@ -14,13 +14,13 @@ public class PalindromoWrapper {
 			}
 			for(String word:args){
 				if(Palindromo.isPalindromo(word)){
-					System.out.println("A palavra "+word+ " É um palíndromo");
+					System.out.println("Palavra \""+word+ "\" : PALINDROMO: SIM");
 				}else{
-					System.out.println("A palavra "+word+ " NÃO é um palíndromo");
+					System.out.println("Palavra \""+word+"\" - PALINDROMO: NAO");
 				}
 			}
 			
-			System.out.println("Para analisar uma frase, coloque-a entre aspas. Para analisar várias palavras, separe-as com espaço");
+			System.out.println("Para analisar uma frase, coloque-a entre aspas. Para analisar varias palavras, separe-as com espaco");
 		}
 		catch(Exception e){
 			System.out.println("Ocorreu algum erro "+e.getMessage());
